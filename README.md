@@ -1,5 +1,3 @@
-Here's a simple API documentation for your README.md file:
-
 ```markdown
 # Employee Management API Documentation
 
@@ -8,9 +6,9 @@ RESTful API for managing employees. The API provides endpoints to create, read, 
 ## Base URL
 ```
 http://localhost:8080/employee
-```
+``
 
-## Endpoints
+### Endpoints
 
 ### Get All Employees
 - **URL:** `/all`
